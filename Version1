@@ -1,4 +1,5 @@
 class Sample
 {
   Sop("v1.a")// && Signup & Login
+  Sop("v1.a+v1.b")//Compose & Inbox && Signup & Login
 }
