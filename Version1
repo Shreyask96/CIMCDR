@@ -3,4 +3,6 @@ class Sample
   Sop("v1.a")// && Signup & Login
   Sop("v1.a+v1.b")//Compose & Inbox && Signup & Login
   Sop("v1.a+v1.b+v1.c)//Logout
+  Sop("v2.a")//Sentitems & Inbox
+  Sop("v2.a+v2.b")//Logout
 }
